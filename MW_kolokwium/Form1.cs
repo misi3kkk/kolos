@@ -32,7 +32,7 @@ namespace MW_kolokwium
             if (woman.Checked)
             {
                 ppm = (double.Parse(waga.Text) * 10) + (6.25 * double.Parse(wzrost.Text)) - (5 * double.Parse(wiek.Text)) -161;
-                plec = "k";
+                plec = "Kobieta";
                 if (lista.SelectedIndex == 0)
                 {
                     pal = 1.2;
@@ -61,7 +61,7 @@ namespace MW_kolokwium
             else
             {
                 ppm = (double.Parse(waga.Text) * 10) + (6.25 * double.Parse(wzrost.Text)) - (5 * double.Parse(wiek.Text)) + 5;
-                plec = "m";
+                plec = "Mężczyzna";
                 if (lista.SelectedIndex == 0)
                 {
                     pal = 1.2;
