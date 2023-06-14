@@ -31,6 +31,7 @@ namespace MW_kolokwium
         {
             if (woman.Checked)
             {
+                ppm = (double.Parse(waga.Text) * 10) + (6.25 * double.Parse(wzrost.Text)) - (5 * double.Parse(wiek.Text)) -161;
                 plec = "k";
                 if (lista.SelectedIndex == 0)
                 {
@@ -59,6 +60,7 @@ namespace MW_kolokwium
             }
             else
             {
+                ppm = (double.Parse(waga.Text) * 10) + (6.25 * double.Parse(wzrost.Text)) - (5 * double.Parse(wiek.Text)) + 5;
                 plec = "m";
                 if (lista.SelectedIndex == 0)
                 {
@@ -85,7 +87,7 @@ namespace MW_kolokwium
                     pal = 2.4;
                 }
             }
-            ppm = (double.Parse(waga.Text) * 10) + (6.25 * double.Parse(wzrost.Text) / 100) - (5 * double.Parse(wiek.Text)) + 5;
+            
             bmi bmi_2 = new bmi()
             {
                 Wiek = double.Parse(wiek.Text),
