@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\bin\Debug\MW_kolokwium.exe.config
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\bin\Debug\MW_kolokwium.exe
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\bin\Debug\MW_kolokwium.pdb
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.Form1.resources
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.Properties.Resources.resources
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.exe
+C:\Users\micha\OneDrive\Pulpit\MW_kolokwium\obj\Debug\MW_kolokwium.pdb
